@@ -19,7 +19,7 @@ def keyPress():
         time.sleep(interval - ((time.time() - starttime) % interval))
     
 def sysTray():
-    systray = SysTrayIcon("C:/Users/david/.spyder-py3/caffiene/aeropress_wh.ico", "Aeropress")
+    systray = SysTrayIcon("aeropress_wh.ico", "Aeropress")
     systray.start()
     keyPress()
     
