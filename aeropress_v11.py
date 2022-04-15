@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Apr 13 22:46:47 2022
-
-@author: david
-
 Aeropress 
 Inspired by Caffiene
 
